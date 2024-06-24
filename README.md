@@ -21,4 +21,4 @@ Welcome to the React Firebase Chat App! This project is a real-time chat applica
 - Real-time messaging using Firebase Cloud Firestore.
 - User authentication with Firebase Authentication.
 
-![image](https://github.com/catrucdev/chatting-app/public/chatting-room.png)
+![image](https://github.com/catrucdev/chatting-app/blob/master/public/chatting-room.png)
